@@ -1,5 +1,0 @@
-from member account
-
-
-access key: AKIAUDPL24WQUEVZV6HZ
-secret key: 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
