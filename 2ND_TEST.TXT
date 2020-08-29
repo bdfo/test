@@ -1,0 +1,2 @@
+access_key: AKIA6Q6I72M4QN7Q5BXP
+secret_key: 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
