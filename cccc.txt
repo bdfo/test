@@ -1,0 +1,6 @@
+in this test health enabled.
+no member stack.
+mgmt logs all health events.
+
+secret_key: AKIA6Q6I72M44GZV2FO3
+access_key: l9anXV822i72ICycTcpPbSb3duAfNddXYG/nOsTr
