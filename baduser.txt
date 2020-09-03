@@ -1,0 +1,2 @@
+access_key: AKIA3P6KM42PZWOOTYEN
+secret_key: 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
