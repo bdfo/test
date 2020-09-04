@@ -3,8 +3,8 @@ no member stack.
 mgmt logs all health events.
 
 
-access_key: AKIA6Q6I72M4VIJMDF3M
-secret_key: 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
+access_key: AKIA6Q6I72M4QCO5HYIG
+secret_key: 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
 
-access_key: AKIA6Q6I72M4QKJ6M65H
-secret_key: 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
+access_key: AKIA6Q6I72M445B5CWVU
+secret_key: 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
