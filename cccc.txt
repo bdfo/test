@@ -2,5 +2,9 @@ in this test health enabled.
 no member stack.
 mgmt logs all health events.
 
-secret_key: AKIA6Q6I72M44GZV2FO3
-access_key: l9anXV822i72ICycTcpPbSb3duAfNddXYG/nOsTr
+
+access_key: AKIA6Q6I72M4VIJMDF3M
+secret_key: 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
+
+access_key: AKIA6Q6I72M43FPF33MM
+secret_key: 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
