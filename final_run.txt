@@ -1,2 +1,0 @@
-access_key: AKIATCT32C4VV7NKEKMF
-secret_key: 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
