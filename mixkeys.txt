@@ -1,4 +1,0 @@
-access_key: AKIA6Q6I72M4WQGYSATW
-secret_key: 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
-
-mix keys
