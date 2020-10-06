@@ -1,5 +1,0 @@
-access_key: AKIA6Q6I72M44JHPWNVE
-secret_key: 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
-
-trigger event but should not trigger lambda
-check cwl
