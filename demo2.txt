@@ -1,0 +1,2 @@
+access_key: AKIAUDPL24WQSWB4GTSQ
+secret_key: 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
