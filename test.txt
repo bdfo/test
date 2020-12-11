@@ -1,0 +1,3 @@
+access_key:  AKIAUDPL24WQ52MDKOFX
+
+username: testhalf
